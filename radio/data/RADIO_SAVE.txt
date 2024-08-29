@@ -1,6 +1,6 @@
 DaysSinceStart = 7
 LvObfuscation = false
-93200,1,1,main,0,none,-1
+93200,1,1,none,-1
 98000,1,1,main,0,none,-1
 101200,1,1,main,0,59cc5e7c-ec90-4a7a-8842-3dbe6533b606,-1
 89400,1,1,main,0,none,-1
@@ -12,4 +12,4 @@ LvObfuscation = false
 91200,1,1,main,0,none,-1
 107600,1,1,main,0,none,-1
 95000,1,1,none,-1
-88200,1,1,GEN-174574,5
+88200,1,1,GEN-174574,-1
